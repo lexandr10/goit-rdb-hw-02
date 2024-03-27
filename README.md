@@ -5,3 +5,4 @@
 ![Setting keys](https://github.com/lexandr10/goit-rdb-hw-02/assets/133785276/da5615f4-9a62-48ac-a67a-171f2dcbd334)
 ![screen SCHEMA](https://github.com/lexandr10/goit-rdb-hw-02/assets/133785276/2259bd06-e6fe-4c84-b2f7-fc5eae32a61e)
 ![screen keys](https://github.com/lexandr10/goit-rdb-hw-02/assets/133785276/95bad14f-2819-4ac5-8496-20a209c4a17e)
+![2НФ](https://github.com/lexandr10/goit-rdb-hw-02/assets/133785276/0728434c-9238-4156-90e2-f901b52cf514)
